@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Introduction Post: The First One"
+author: Fin Lockert
 categories: misc
 ---
 
