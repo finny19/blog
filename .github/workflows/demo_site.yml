@@ -31,7 +31,7 @@ jobs:
           rm -rf _site/
           git clone --depth=1 --branch="${REMOTE_BRANCH}" --single-branch --no-checkout "${REMOTE_REPO}" _site/
       - name: Build site
-        run: bundle exec jekyll build --verbose --trace
+        run: bundle exec jekyll build --verbose --trace --baseurl https://finny19.github.io/blog
       - name: Deploy to GitHub Pages
         run: |
           SOURCE_COMMIT="$(git log -1 --pretty="%an: %B" "$GITHUB_SHA")"
