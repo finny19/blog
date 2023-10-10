@@ -11,7 +11,7 @@ This week's lab marked a significant transition from familiar territory to new h
 
 At the outset, Vertabello was a bit disorienting. In Lucidchart, I got used to using oval shapes to represent entity attributes, providing a clear visual distinction. However, Vertabello took a different approach, and I had to adjust to the absence of these ovals. It was a minor hiccup but one that required a shift in my thinking.
 
-![Vertabello Schema]({{"/assets/images/schema.jpg" | relative_url}} "Vertabello Schema")
+![Vertabello Schema]({{"/assets/images/schema.png" | relative_url}} "Vertabello Schema")
 
 **2. Understanding Data Limits and M/PI**
 
@@ -23,7 +23,7 @@ Additionally, I grappled with the concepts of "M" (Mandatory) and "PI" (Primary 
 
 Despite these initial hurdles, I slowly found the advantages of Vertabello. The ability to view detailed information about each attribute without cluttering the diagram was a game-changer (putting any more amount of detailed info into LucidChart feels daunting, and like it would make the whole thing look horrible). It made it easier to understand the nuances of the data model at a glance, something I'm not sure I could've done in LucidChart.
 
-![LucidChart Diagram]({{"/assets/images/erd.jpg" |relative_url}} "LucidChart Diagram")
+![LucidChart Diagram]({{"/assets/images/erd.png" |relative_url}} "LucidChart Diagram")
 
 **4. Diamond-Shaped Relationships**
 
