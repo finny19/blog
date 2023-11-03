@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Lab 9"
+author: Fin Lockert
+categories: misc
+---
+
+I started this lab completely wrong. I downloaded the wrong file, nearly completed the lab, and ran into a literlly impossible to fix error. Then I had to do it all again. 
+
+The first download file was super easy to find, in contrast, the file I needed was difficult to find. This is why things were over an hour late after already getting an extension. It wasn't hard. It was almost the exact same as the other one, but the tutorial was mostly easier to understand (except for a bad file download to begin with). Honestly the only difference having more models made to me was that there was more stuff to type out.
+
+I think our team has definitley got this, so long as we get our files right. Of course, we are a special case since we have the models and need to build the other stuff, unlike most if not all the other groups. I'm super upset for getting it in late, but I'm somewhat proud for getting pretty much all the real code done in ~2 hours.
